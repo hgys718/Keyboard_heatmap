@@ -1,0 +1,158 @@
+[
+  {
+    "key": "A",
+    "count": 312
+  },
+  {
+    "key": "B",
+    "count": 149
+  },
+  {
+    "key": "C",
+    "count": 476
+  },
+  {
+    "key": "D",
+    "count": 261
+  },
+  {
+    "key": "E",
+    "count": 437
+  },
+  {
+    "key": "F",
+    "count": 143
+  },
+  {
+    "key": "G",
+    "count": 123
+  },
+  {
+    "key": "H",
+    "count": 208
+  },
+  {
+    "key": "I",
+    "count": 318
+  },
+  {
+    "key": "J",
+    "count": 84
+  },
+  {
+    "key": "K",
+    "count": 97
+  },
+  {
+    "key": "L",
+    "count": 274
+  },
+  {
+    "key": "M",
+    "count": 139
+  },
+  {
+    "key": "N",
+    "count": 287
+  },
+  {
+    "key": "O",
+    "count": 264
+  },
+  {
+    "key": "P",
+    "count": 182
+  },
+  {
+    "key": "Q",
+    "count": 42
+  },
+  {
+    "key": "R",
+    "count": 336
+  },
+  {
+    "key": "S",
+    "count": 493
+  },
+  {
+    "key": "T",
+    "count": 307
+  },
+  {
+    "key": "U",
+    "count": 227
+  },
+  {
+    "key": "V",
+    "count": 426
+  },
+  {
+    "key": "W",
+    "count": 172
+  },
+  {
+    "key": "X",
+    "count": 179
+  },
+  {
+    "key": "Y",
+    "count": 117
+  },
+  {
+    "key": "Z",
+    "count": 83
+  },
+  {
+    "key": "Space",
+    "count": 1357
+  },
+  {
+    "key": "Enter",
+    "count": 418
+  },
+  {
+    "key": "Backspace",
+    "count": 517
+  },
+  {
+    "key": "Tab",
+    "count": 112
+  },
+  {
+    "key": "Shift",
+    "count": 869
+  },
+  {
+    "key": "Ctrl",
+    "count": 687
+  },
+  {
+    "key": "Alt",
+    "count": 144
+  },
+  {
+    "key": "Cmd",
+    "count": 723
+  },
+  {
+    "key": "ArrowUp",
+    "count": 202
+  },
+  {
+    "key": "ArrowDown",
+    "count": 209
+  },
+  {
+    "key": "ArrowLeft",
+    "count": 238
+  },
+  {
+    "key": "ArrowRight",
+    "count": 246
+  },
+  {
+    "key": "Esc",
+    "count": 47
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "key": "A",
+    "day": 509,
+    "night": 526
+  },
+  {
+    "key": "B",
+    "day": 582,
+    "night": 239
+  },
+  {
+    "key": "C",
+    "day": 276,
+    "night": 151
+  },
+  {
+    "key": "D",
+    "day": 557,
+    "night": 98
+  },
+  {
+    "key": "E",
+    "day": 439,
+    "night": 115
+  },
+  {
+    "key": "F",
+    "day": 586,
+    "night": 464
+  },
+  {
+    "key": "G",
+    "day": 71,
+    "night": 148
+  },
+  {
+    "key": "H",
+    "day": 334,
+    "night": 112
+  },
+  {
+    "key": "I",
+    "day": 444,
+    "night": 502
+  },
+  {
+    "key": "J",
+    "day": 42,
+    "night": 500
+  },
+  {
+    "key": "K",
+    "day": 228,
+    "night": 113
+  },
+  {
+    "key": "L",
+    "day": 375,
+    "night": 503
+  },
+  {
+    "key": "M",
+    "day": 523,
+    "night": 570
+  },
+  {
+    "key": "N",
+    "day": 58,
+    "night": 207
+  },
+  {
+    "key": "O",
+    "day": 48,
+    "night": 476
+  },
+  {
+    "key": "P",
+    "day": 102,
+    "night": 486
+  },
+  {
+    "key": "Q",
+    "day": 550,
+    "night": 438
+  },
+  {
+    "key": "R",
+    "day": 198,
+    "night": 432
+  },
+  {
+    "key": "S",
+    "day": 45,
+    "night": 243
+  },
+  {
+    "key": "T",
+    "day": 251,
+    "night": 584
+  },
+  {
+    "key": "U",
+    "day": 27,
+    "night": 521
+  },
+  {
+    "key": "V",
+    "day": 484,
+    "night": 338
+  },
+  {
+    "key": "W",
+    "day": 621,
+    "night": 181
+  },
+  {
+    "key": "X",
+    "day": 259,
+    "night": 546
+  },
+  {
+    "key": "Y",
+    "day": 338,
+    "night": 462
+  },
+  {
+    "key": "Z",
+    "day": 306,
+    "night": 692
+  },
+  {
+    "key": "Space",
+    "day": 675,
+    "night": 433
+  },
+  {
+    "key": "Enter",
+    "day": 82,
+    "night": 306
+  },
+  {
+    "key": "Backspace",
+    "day": 190,
+    "night": 486
+  },
+  {
+    "key": "Tab",
+    "day": 555,
+    "night": 231
+  },
+  {
+    "key": "Shift",
+    "day": 332,
+    "night": 311
+  },
+  {
+    "key": "Ctrl",
+    "day": 372,
+    "night": 228
+  },
+  {
+    "key": "Alt",
+    "day": 601,
+    "night": 24
+  },
+  {
+    "key": "Cmd",
+    "day": 72,
+    "night": 640
+  },
+  {
+    "key": "ArrowUp",
+    "day": 455,
+    "night": 341
+  },
+  {
+    "key": "ArrowDown",
+    "day": 497,
+    "night": 86
+  },
+  {
+    "key": "ArrowLeft",
+    "day": 285,
+    "night": 300
+  },
+  {
+    "key": "ArrowRight",
+    "day": 344,
+    "night": 198
+  },
+  {
+    "key": "Esc",
+    "day": 249,
+    "night": 645
+  }
+]
